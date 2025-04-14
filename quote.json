@@ -1,0 +1,142 @@
+[
+  {
+    "match": "Newcastle Jets FC vs Central Coast Mariners",
+    "competizione": "Australia Aleague",
+    "orario": "2025-04-12T09:35:00Z",
+    "quote": {
+      "2": 300.0,
+      "1": 1.02,
+      "X": 44.0
+    }
+  },
+  {
+    "match": "SSV Ulm 1846 vs 1. FC Magdeburg",
+    "competizione": "Germany Bundesliga2",
+    "orario": "2025-04-12T11:00:00Z",
+    "quote": {
+      "2": 2.05,
+      "1": 3.3,
+      "X": 3.5
+    }
+  },
+  {
+    "match": "Qingdao Hainiu FC vs Chengdu Rongcheng FC",
+    "competizione": "China Superleague",
+    "orario": "2025-04-12T11:00:00Z",
+    "quote": {
+      "2": 1.33,
+      "1": 8.4,
+      "X": 5.1
+    }
+  },
+  {
+    "match": "Hannover 96 vs Elversberg",
+    "competizione": "Germany Bundesliga2",
+    "orario": "2025-04-12T11:00:00Z",
+    "quote": {
+      "2": 2.75,
+      "1": 2.5,
+      "X": 3.25
+    }
+  },
+  {
+    "match": "Hertha Berlin vs SV Darmstadt 98",
+    "competizione": "Germany Bundesliga2",
+    "orario": "2025-04-12T11:00:00Z",
+    "quote": {
+      "1": 2.02,
+      "2": 3.42,
+      "X": 3.74
+    }
+  },
+  {
+    "match": "Sandvikens IF vs Trelleborgs FF",
+    "competizione": "Sweden Superettan",
+    "orario": "2025-04-12T11:00:00Z",
+    "quote": {
+      "1": 2.0,
+      "2": 3.2,
+      "X": 3.7
+    }
+  },
+  {
+    "match": "Swindon Town vs Bradford City",
+    "competizione": "England League2",
+    "orario": "2025-04-12T11:30:00Z",
+    "quote": {
+      "2": 2.27,
+      "1": 3.1,
+      "X": 3.32
+    }
+  },
+  {
+    "match": "Celtic vs Kilmarnock",
+    "competizione": "Spl",
+    "orario": "2025-04-12T11:30:00Z",
+    "quote": {
+      "1": 1.19,
+      "2": 14.0,
+      "X": 6.9
+    }
+  },
+  {
+    "match": "Manchester City vs Crystal Palace",
+    "competizione": "Epl",
+    "orario": "2025-04-12T11:30:00Z",
+    "quote": {
+      "2": 5.1,
+      "1": 1.6,
+      "X": 4.2
+    }
+  },
+  {
+    "match": "Doncaster Rovers vs Wimbledon",
+    "competizione": "England League2",
+    "orario": "2025-04-12T11:30:00Z",
+    "quote": {
+      "1": 1.91,
+      "2": 4.26,
+      "X": 3.32
+    }
+  },
+  {
+    "match": "Ilves Tampere vs Jaro",
+    "competizione": "Finland Veikkausliiga",
+    "orario": "2025-04-12T11:30:00Z",
+    "quote": {
+      "1": 1.39,
+      "2": 8.45,
+      "X": 4.7
+    }
+  },
+  {
+    "match": "Leeds United vs Preston North End",
+    "competizione": "Efl Champ",
+    "orario": "2025-04-12T11:30:00Z",
+    "quote": {
+      "1": 1.23,
+      "2": 9.5,
+      "X": 5.0
+    }
+  },
+  {
+    "match": "Plymouth Argyle vs Sheffield United",
+    "competizione": "Efl Champ",
+    "orario": "2025-04-12T11:30:00Z",
+    "quote": {
+      "1": 5.8,
+      "2": 1.5,
+      "X": 4.3
+    }
+  },
+  {
+    "match": "Wycombe Wanderers vs Stevenage",
+    "competizione": "England League1",
+    "orario": "2025-04-12T11:30:00Z",
+    "quote": {
+      "2": 6.61,
+      "1": 1.58,
+      "X": 3.72
+    }
+  }
+]
