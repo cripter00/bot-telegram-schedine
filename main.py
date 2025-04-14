@@ -30,10 +30,10 @@ logger = logging.getLogger(__name__)
 fuso_orario_italia = pytz.timezone('Europe/Rome')
 
 # Token del bot Telegram
-TOKEN = "7652050188:AAELPQe__WD2W7o8Nx4fULe08_2P_xd2k3g"
+TOKEN = ""
 
 # ID del canale Telegram dove inviare le schedine automatiche
-CHANNEL_ID = "@Sindaco750"  # Sostituisci con l'ID o username del tuo canale
+CHANNEL_ID = "@"  # Sostituisci con l'ID o username del tuo canale
 
 # Inizializza il bot
 bot = telebot.TeleBot(TOKEN, parse_mode='Markdown')
